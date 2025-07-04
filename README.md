@@ -91,6 +91,8 @@ Clone the repository:
 
 Open the merged/single file in your IDE 
 
+Change the file path in the main function of main.cpp according to the file path of the images.
+
 Run and Compile
 
 To properly switch between the scenarios and also to use keyboard and mouse interactions follow the .md file (KEY_MOUSE_INTERACTIONS.md)
